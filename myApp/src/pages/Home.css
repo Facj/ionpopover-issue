@@ -1,0 +1,25 @@
+.device-col{
+    display: flex;
+  }
+  
+.device-card{
+    width: 100%;
+}
+
+
+.parameter-col {
+    display: flex;
+    /*height: 50px;*/
+    color:black;
+    font-size: 14px;
+    align-items: center;
+  }
+  
+.parameter-col ion-input {
+    border-bottom: 1px solid #ccc;
+    margin-right: 2%;
+  }
+  
+.parameter-col ion-select{
+    width: 100%;
+  }

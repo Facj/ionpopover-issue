@@ -49,7 +49,31 @@ const Page2: React.FC = () => {
           { name: "Option 1 ", value: "0" },
           { name: "Option 2 ", value: "1" },
           { name: "Option 3 ", value: "2" },
-          { name: "Option 140000000000000000", value: "3" }
+          { name: "Option 140000000000000000", value: "3" },
+          { name: "Option 140000000000000000", value: "4" },
+          { name: "Option 140000000000000000", value: "5" },
+          { name: "Option 140000000000000000", value: "6" },
+          { name: "Option 140000000000000000", value: "7" },
+          { name: "Option 140000000000000000", value: "8" },
+          { name: "Option 140000000000000000", value: "9" },
+          { name: "Option 140000000000000000", value: "10" },
+          { name: "Option 140000000000000000", value: "11" },
+          { name: "Option 140000000000000000", value: "12" },
+          { name: "Option 140000000000000000", value: "13" },
+          { name: "Option 140000000000000000", value: "14" },
+          { name: "Option 140000000000000000", value: "15" },
+          { name: "Option 140000000000000000", value: "16" },
+          { name: "Option 140000000000000000", value: "17" },
+          { name: "Option 140000000000000000", value: "18" },
+          { name: "Option 140000000000000000", value: "19" },
+          { name: "Option 140000000000000000", value: "20" },
+          { name: "Option 140000000000000000", value: "21" },
+          { name: "Option 140000000000000000", value: "22" },
+          { name: "Option 140000000000000000", value: "23" },
+          { name: "Option 140000000000000000", value: "24" },
+          { name: "Option 140000000000000000", value: "25" },
+          { name: "Option 140000000000000000", value: "26" },
+
         ]
       }
     ];
